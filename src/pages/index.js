@@ -1,4 +1,5 @@
 import Banner from "@/components/banner/Banner";
+import Categories from "@/components/categories/Categories";
 import TopBook from "@/components/topBook/TopBook";
 import { Inter } from "next/font/google";
 
@@ -11,6 +12,7 @@ export default function Home() {
     >
       <Banner/>
       <TopBook/>
+      <Categories/>
     </main>
   );
 }
