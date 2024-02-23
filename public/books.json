@@ -1,0 +1,26 @@
+[
+    {
+        "bookName": "To Kill a Mockingbird",
+        "bookPrice": 10.99,
+        "author": "Harper Lee",
+        "authorEmail": "harperlee@example.com",
+        "bookImg": "http://t0.gstatic.com/images?q=tbn:ANd9GcToEfyjJCtxhPUIWYFRAIHzCHCEYRQFOqFxd6Sqxnz8qP1MeN8F",
+        "bookDescription": "A gripping portrayal of racial injustice and moral growth in a small Southern town."
+    },
+    {
+        "bookName": "1984",
+        "bookPrice": 9.99,
+        "author": "George Orwell",
+        "authorEmail": "georgeorwell@example.com",
+        "bookImg": "1984.jpg",
+        "bookDescription": "A dystopian novel set in a totalitarian society, where the government constantly monitors and manipulates its citizens."
+    },
+    {
+        "bookName": "The Great Gatsby",
+        "bookPrice": 12.49,
+        "author": "F. Scott Fitzgerald",
+        "authorEmail": "fscottfitzgerald@example.com",
+        "bookImg": "the_great_gatsby.jpg",
+        "bookDescription": "A tragic love story set in the Jazz Age, exploring themes of decadence, idealism, and the American Dream."
+    }
+]
