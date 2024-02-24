@@ -1,4 +1,5 @@
 import Authors from "@/components/Authors/Authors";
+import NearlyLibabry from "@/components/Authors/Authors";
 import Banner from "@/components/banner/Banner";
 import Categories from "@/components/categories/Categories";
 import HowtoUse from "@/components/howTouse/HowtoUse";
