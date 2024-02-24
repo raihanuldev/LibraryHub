@@ -1,4 +1,4 @@
-import NearlyLibabry from "@/components/NearlyLibabry/NearlyLibabry";
+import Authors from "@/components/Authors/Authors";
 import Banner from "@/components/banner/Banner";
 import Categories from "@/components/categories/Categories";
 import HowtoUse from "@/components/howTouse/HowtoUse";
@@ -18,7 +18,7 @@ export default function Home() {
       <Categories/>
       <HowtoUse/>
       <Resource/>
-      <NearlyLibabry/>
+      <Authors/>
     </main>
   );
 }

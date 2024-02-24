@@ -4,11 +4,11 @@
 
 
 :root {
-    --background-color: #ffffff;
+    --background-color: [#007EBD];
     --text-color: #121212
 }
 .dark-theme {
-    --background-color: #121212;
+    --background-color:[#007EBD];
     --text-color: #ffffff;
     /* Adjust other theme colors for dark theme */
   }

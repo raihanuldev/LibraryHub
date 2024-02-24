@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "totalBooksPublished": 8,
+      "img": "https://images.unsplash.com/photo-1600188768149-f27db3bc6ef9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Alice Johnson is a prolific author known for her captivating storytelling and imaginative worlds."
+    },
+    {
+      "id": 2,
+      "name": "David Smith",
+      "totalBooksPublished": 12,
+      "img": "https://plus.unsplash.com/premium_photo-1663933534550-b28e10ef4a48?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "David Smith is a bestselling author acclaimed for his insightful narratives and rich character development."
+    },
+    {
+      "id": 3,
+      "name": "Emily Brown",
+      "totalBooksPublished": 5,
+      "img": "https://images.unsplash.com/photo-1600188768149-f27db3bc6ef9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Emily Brown is an emerging author with a unique voice and a talent for crafting gripping plots."
+    },
+    {
+      "id": 4,
+      "name": "Michael Lee",
+      "totalBooksPublished": 10,
+      "img": "https://plus.unsplash.com/premium_photo-1663933534550-b28e10ef4a48?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Michael Lee is an established author renowned for his thought-provoking themes and elegant prose."
+    },
+    {
+      "id": 5,
+      "name": "Sophia Patel",
+      "totalBooksPublished": 3,
+      "img": "https://images.unsplash.com/photo-1600188768149-f27db3bc6ef9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Sophia Patel is a rising star in the literary world, known for her emotionally resonant storytelling."
+    }
+  ]
+  
