@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="92px" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Inside WorldCat / Module / Icon / Musical Scores</title>
+    <defs>
+        <rect id="path-1" x="0.764080488" y="0.07635329" width="80" height="76" rx="4"></rect>
+        <filter x="-14.3%" y="-9.8%" width="128.6%" height="130.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.45" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.247186407 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M50.3220885,34.0652974 C50.7059511,33.9364108 51.130614,34.0008541 51.4597363,34.2362417 C51.7881785,34.4719684 51.9843599,34.8538797 51.9843599,35.2574982 L51.9843599,35.2574982 L51.9843599,57.4351476 C51.99456,57.5681043 52,57.7020785 52,57.8377486 C52,60.9439152 49.2918814,63.4707705 45.9632585,63.4707705 C42.6349756,63.4707705 39.926857,60.9439152 39.926857,57.8377486 C39.926857,54.731582 42.6349756,52.2047267 45.9632585,52.2047267 C47.2260272,52.2047267 48.4449356,52.5720535 49.4632426,53.2500647 L49.4632426,53.2500647 L49.4632426,44.3616392 L32.0367628,50.2012188 L32.0367628,59.7503576 C32.0605629,59.9542019 32.072803,60.1614379 32.072803,60.3669781 C32.072803,63.4731447 29.3650244,66 26.0367415,66 C22.7081186,66 20,63.4731447 20,60.3669781 C20,57.2608116 22.7081186,54.7339563 26.0367415,54.7339563 C27.2896501,54.7339563 28.5017584,55.0961954 29.5153054,55.7653881 L29.5153054,55.7653881 L29.5153054,41.9423024 C29.5153054,41.401318 29.8607478,40.9220634 30.3744913,40.7497624 L30.3744913,40.7497624 Z" id="path-3"></path>
+        <filter x="-21.9%" y="-15.6%" width="143.8%" height="143.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.2923425,59.0651804 C18.0694426,59.6791631 17.9251533,60.3271987 17.8696836,61 L17.8696836,61 L7.87764672,61 C7.39373294,61 7,60.6020291 7,60.1129067 L7,60.1129067 L7,59.9519297 C7,59.4631513 7.39373294,59.0651804 7.87764672,59.0651804 L7.87764672,59.0651804 Z M71.1230339,59.0651804 C71.6066074,59.0651804 72,59.4631513 72,59.9519297 L72,59.9519297 L72,60.1129067 C72,60.6020291 71.6066074,61 71.1230339,61 L71.1230339,61 L53.848469,61 C54.0145378,60.3812017 54.1030171,59.7328221 54.1036978,59.0651804 L54.1036978,59.0651804 Z M37.7691575,59.0651804 C37.7701784,59.7328221 37.858998,60.3812017 38.0250669,61 L38.0250669,61 L33.9614843,61 L33.9614843,61 L33.9556991,60.8854587 L33.9556991,59.0651804 Z M71.1230339,45.2107366 C71.6066074,45.2107366 72,45.6083636 72,46.097486 L72,46.097486 L72,46.258463 C72,46.7475854 71.6066074,47.1452123 71.1230339,47.1452123 L71.1230339,47.1452123 L53.7429744,47.1452123 L53.7429744,45.2107366 Z M27.5158004,45.2107366 L27.5158004,47.1452123 L25.6539914,47.1452123 C25.6621588,47.0650678 25.6682843,46.9852672 25.6682843,46.9051227 L25.6682843,46.9051227 L25.6682843,45.2107366 L27.5158004,45.2107366 Z M9.33194035,45.2105647 C9.2812349,45.5645077 9.25332988,45.92533 9.25332988,46.2923438 C9.25332988,46.580589 9.27034514,46.8650504 9.30199351,47.1450403 L9.30199351,47.1450403 L7.87747657,47.1450403 C7.39356279,47.1450403 7.00017015,46.7474134 7.00017015,46.258635 L7.00017015,46.258635 L7.00017015,46.097314 C7.00017015,45.6085356 7.39356279,45.2105647 7.87747657,45.2105647 L7.87747657,45.2105647 Z M71.1230339,30.8806197 C71.6066074,30.8806197 72,31.2782466 72,31.767369 L72,31.767369 L72,31.928346 C72,32.4174684 71.6066074,32.8150953 71.1230339,32.8150953 L71.1230339,32.8150953 L68.3257264,32.8150953 C68.3886828,32.5450805 68.4407495,32.2709381 68.4740994,31.9902602 C68.4860101,31.8922294 68.4917952,31.7945425 68.4917952,31.6965116 L68.4917952,31.6965116 L68.4917952,30.8806197 Z M19.0154907,30.8806197 L19.0154907,32.8150953 L7.87764672,32.8150953 C7.39373294,32.8150953 7,32.4174684 7,31.928346 L7,31.928346 L7,31.767369 C7,31.2782466 7.39373294,30.8806197 7.87764672,30.8806197 L7.87764672,30.8806197 L19.0154907,30.8806197 Z M52.2802412,30.8806197 C52.2781994,30.951821 52.2747963,31.0226784 52.2747963,31.0945677 C52.2747963,31.6858486 52.3455798,32.260963 52.475236,32.8150953 L52.475236,32.8150953 L25.6683863,32.8150953 L25.6683863,30.8806197 Z M71.1230339,17 C71.6066074,17 72,17.3976269 72,17.8867493 L72,17.8867493 L72,18.0477263 C72,18.5368487 71.6066074,18.9344757 71.1230339,18.9344757 L71.1230339,18.9344757 L68.4989417,18.9344757 L68.4989417,17 Z M61.8706841,17 L61.8706841,18.9344757 L7.87754463,18.9344757 C7.39363085,18.9344757 7.00023821,18.5368487 7.00023821,18.0477263 L7.00023821,18.0477263 L7.00023821,17.8867493 C7.00023821,17.3976269 7.39363085,17 7.87754463,17 L7.87754463,17 L61.8706841,17 Z" id="path-5"></path>
+        <filter x="-10.8%" y="-11.4%" width="121.5%" height="131.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M22.7588377,26 L22.7406242,26 C22.0564616,26 21.4994619,26.5754045 21.4994619,27.2829364 L21.4994619,41.4369972 C20.486133,40.7404189 19.2731186,40.3625209 18.018379,40.3625209 C14.6995612,40.3625209 12,42.9725503 12,46.1812604 C12,49.3896283 14.6995612,52 18.018379,52 C21.0865138,52 23.6572564,49.7777953 23.9976819,46.8312861 C23.9993377,46.8179365 24,46.8042445 24,46.7908948 L24,27.2829364 C24,26.5754045 23.4430002,26 22.7588377,26" id="path-7"></path>
+        <filter x="-58.3%" y="-19.2%" width="216.7%" height="153.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M71.931849,9.84324422 C71.8233225,9.52922328 71.5966835,9.27529068 71.2947265,9.12863441 C70.9917423,8.98163867 70.6514415,8.95957233 70.3340784,9.06786712 L69.530229,9.34081072 C69.5240666,9.34250813 69.5179042,9.34454502 69.5120842,9.34658192 L65.5068736,10.7075656 C65.4815393,10.7160527 65.4579168,10.7275951 65.4360061,10.7418533 C64.965268,10.936716 64.653725,11.392301 64.653725,11.8981293 L64.653725,25.6858551 C63.624606,25.0099462 62.3945247,24.643645 61.121649,24.643645 C57.7460291,24.643645 55,27.1907792 55,30.3218225 C55,33.4528659 57.7460291,36 61.121649,36 C64.2428991,36 66.8578062,33.8317279 67.2039271,30.9563145 C67.2056389,30.9427353 67.2063236,30.9294955 67.2063236,30.9159162 L67.2063236,12.7678824 L71.1499103,11.4276071 C71.466931,11.3199913 71.7226701,11.0955937 71.8705675,10.795831 C72.0188072,10.4957288 72.0403755,10.1576046 71.931849,9.84324422" id="path-9"></path>
+        <filter x="-41.2%" y="-18.5%" width="182.4%" height="151.9%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Inside-WorldCat-/-Module-/-Icon-/-Musical-Scores" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#9DC9D9" stroke-width="0.5" fill="#DCEDF4" style="mix-blend-mode: multiply;" cx="48" cy="46" r="44"></circle>
+        <g id="Group-28" transform="translate(7.000000, 8.000000)">
+            <g id="Group-5" transform="translate(0.119640, 0.179461)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#859DB6" stroke-width="0.9" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" transform="translate(7.478562, 8.418742)" fill="#FFFFFF">
+                    <ellipse id="Oval" cx="2.42492555" cy="2.40787516" rx="2.14164185" ry="2.13595839"></ellipse>
+                    <ellipse id="Oval-Copy-2" cx="8.13597048" cy="2.40787516" rx="2.14164185" ry="2.13595839"></ellipse>
+                    <ellipse id="Oval-Copy-3" cx="13.8470154" cy="2.40787516" rx="2.14164185" ry="2.13595839"></ellipse>
+                </g>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#0F70A8" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#BBC4CD" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <g id="Fill-27">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#54A8D8" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <g id="Fill-29">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#54A8D8" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+        </g>
+    </g>
+</svg>

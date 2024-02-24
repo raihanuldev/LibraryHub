@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="92px" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Inside WorldCat / Module / Icon / Sound Recordings</title>
+    <defs>
+        <rect id="path-1" x="0.0136863082" y="0.414452747" width="80" height="73" rx="4"></rect>
+        <filter x="-14.3%" y="-10.2%" width="128.6%" height="131.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.45" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.247186407 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M10.7457294,17.8543151 C11.8655916,17.8543151 12.7732025,18.7682239 12.7732025,19.8958568 L12.7732025,19.8958568 L12.7732025,56.8532351 C12.7732025,57.980868 11.8655916,58.8947768 10.7457294,58.8947768 C9.62586716,58.8947768 8.71825624,57.980868 8.71825624,56.8532351 L8.71825624,56.8532351 L8.71825624,19.8958568 C8.71825624,18.7682239 9.62586716,17.8543151 10.7457294,17.8543151 Z M67.7098252,17.8543151 C68.8296874,17.8543151 69.7372984,18.7682239 69.7372984,19.8958568 L69.7372984,19.8958568 L69.7372984,56.8532351 C69.7372984,57.980868 68.8296874,58.8947768 67.7098252,58.8947768 C66.589963,58.8947768 65.6823521,57.980868 65.6823521,56.8532351 L65.6823521,56.8532351 L65.6823521,19.8958568 C65.6823521,18.7682239 66.589963,17.8543151 67.7098252,17.8543151 Z M26.9655145,23.8393817 C28.0853767,23.8393817 28.9929876,24.7532907 28.9929876,25.8809234 L28.9929876,25.8809234 L28.9929876,56.4760284 C28.9929876,57.6036611 28.0853767,58.5175702 26.9655145,58.5175702 C25.8456522,58.5175702 24.9380413,57.6036611 24.9380413,56.4760284 L24.9380413,56.4760284 L24.9380413,25.8809234 C24.9380413,24.7532907 25.8456522,23.8393817 26.9655145,23.8393817 Z M18.8556219,25.8992655 C19.9754841,25.8992655 20.883095,26.8131743 20.883095,27.9408072 L20.883095,27.9408072 L20.883095,50.8689659 C20.883095,51.9958012 19.9754841,52.9105076 18.8556219,52.9105076 C17.7357597,52.9105076 16.8281488,51.9958012 16.8281488,50.8689659 L16.8281488,50.8689659 L16.8281488,27.9408072 C16.8281488,26.8131743 17.7357597,25.8992655 18.8556219,25.8992655 Z M59.5999327,25.8992655 C60.7197949,25.8992655 61.6274058,26.8131743 61.6274058,27.9408072 L61.6274058,27.9408072 L61.6274058,50.8689659 C61.6274058,51.9958012 60.7197949,52.9105076 59.5999327,52.9105076 C58.4800705,52.9105076 57.5724595,51.9958012 57.5724595,50.8689659 L57.5724595,50.8689659 L57.5724595,27.9408072 C57.5724595,26.8131743 58.4800705,25.8992655 59.5999327,25.8992655 Z M53.5175133,47.8082484 C53.5175133,48.9358811 52.6099024,49.8497901 51.4900401,49.8497901 C50.3701779,49.8497901 49.462567,48.9358811 49.462567,47.8082484 L49.462567,47.8082484 L49.462567,25.8809234 C49.462567,24.7532907 50.3701779,23.8393817 51.4900401,23.8393817 C52.6099024,23.8393817 53.5175133,24.7532907 53.5175133,25.8809234 L53.5175133,25.8809234 Z M35.075407,31.0007273 C36.1952692,31.0007273 37.1028801,31.9146363 37.1028801,33.0422691 L37.1028801,33.0422691 L37.1028801,45.7667066 C37.1028801,46.8943393 36.1952692,47.8082484 35.075407,47.8082484 C33.9555448,47.8082484 33.0479339,46.8943393 33.0479339,45.7667066 L33.0479339,45.7667066 L33.0479339,33.0422691 C33.0479339,31.9146363 33.9555448,31.0007273 35.075407,31.0007273 Z M43.3801476,31.0007273 C44.5000098,31.0007273 45.4076207,31.9146363 45.4076207,33.0422691 L45.4076207,33.0422691 L45.4076207,45.7667066 C45.4076207,46.8943393 44.5000098,47.8082484 43.3801476,47.8082484 C42.2602854,47.8082484 41.3526745,46.8943393 41.3526745,45.7667066 L41.3526745,45.7667066 L41.3526745,33.0422691 C41.3526745,31.9146363 42.2602854,31.0007273 43.3801476,31.0007273 Z" id="path-3"></path>
+        <filter x="-6.6%" y="-4.9%" width="113.1%" height="119.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0413570804 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="5.29608115" y="37.4071877" width="71.8059277" height="3.07207033" rx="1.50300215"></rect>
+        <filter x="-8.4%" y="-97.7%" width="116.7%" height="490.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.227463942 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Inside-WorldCat-/-Module-/-Icon-/-Sound-Recordings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#9DC9D9" stroke-width="0.5" fill="#DCEDF4" style="mix-blend-mode: multiply;" cx="48" cy="46" r="44"></circle>
+        <g id="Group-26" transform="translate(7.000000, 8.000000)">
+            <g id="Rectangle" transform="translate(0.986314, 0.585547)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#859DB6" stroke-width="0.9" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Combined-Shape" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#53A6D6" xlink:href="#path-3"></use>
+            </g>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#0E6EA5" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>
