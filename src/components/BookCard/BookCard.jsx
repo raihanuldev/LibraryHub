@@ -1,6 +1,7 @@
 import React from 'react';
 
 const BookCard = ({book}) => {
+    
     return (
         <div className="card w-96 bg-base-100 shadow-xl">
             <figure><img src={book.bookImg} alt="book" /></figure>
