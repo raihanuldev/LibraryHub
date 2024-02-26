@@ -1,5 +1,3 @@
-import React from 'react';
-
 const HowtoUse = () => {
     return (
         <div className='bg-[#007EBD] rounded-lg text-white my-2'>

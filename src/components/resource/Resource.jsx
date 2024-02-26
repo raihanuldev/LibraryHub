@@ -1,4 +1,3 @@
-import React from 'react';
 import BookImg from '../../../public/books.svg'
 import ArticleImg from '../../../public/article-chapter.svg'
 import SoundImg from '../../../public/recordings.svg';
