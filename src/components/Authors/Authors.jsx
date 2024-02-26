@@ -42,7 +42,7 @@ const Authors = () => {
     };
 
     return (
-        <div className='bg-[#0079B4] text-white'>
+        <div className='bg-[#0079B4] text-white mb-2'>
             <p className='text-center text-3xl font-semibold py-3'>Popular Auhtor</p>
 
             <Swiper

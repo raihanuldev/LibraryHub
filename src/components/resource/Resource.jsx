@@ -8,7 +8,7 @@ import Image from 'next/image';
 
 const Resource = () => {
     return (
-        <div className='bg-[#F4F6F9] text-black justify-center  p-9 rounded-lg'>
+        <div className='bg-[#F4F6F9] text-black justify-center  p-9 rounded-lg my-3'>
             <p className='text-center font-bold text-4xl my-2'>Explore resources in libraries worldwide</p>
             <div className='grid justify-center items-center grid-cols-2 md:grid-cols-3 space-x-2 space-y-8'>
                 <div className='flex space-x-1'>

@@ -9,9 +9,9 @@ const Categories = () => {
     return (
         <div>
             <p className='text-center my-4 text-4xl'>Categories Book</p>
-            <div className='flex justify-center'>
+            <div className='grid grid-cols-3 md:grid-cols-6 mx-2 '>
                 {
-                    Categories.map(category => <img key={category.id} className='w-[10%]' src={category?.categoryImg} alt="img" />
+                    Categories.map(category => <img key={category.id} className='rounded-lg my-3'  src={category?.categoryImg} alt="img" />
                     )
                 }
             </div>
