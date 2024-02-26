@@ -7,7 +7,7 @@ const TopBook = () => {
         fetch('/books.json').then(res=>res.json()).then(data=>setTopBook(data))
     },[])
     return (
-        <div className='flex space-x-4 justify-center'>
+        <div className='grid grid-cols-1 md:grid-cols-3 mx-8 my-5 py-8'>
             {
                 TopBok.slice(0,3).map(book=> <BookCard key={book.id} book = {book}></BookCard>)
             }     
