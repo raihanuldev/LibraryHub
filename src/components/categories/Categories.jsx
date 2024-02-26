@@ -11,7 +11,7 @@ const Categories = () => {
             <p className='text-center my-4 text-4xl'>Categories Book</p>
             <div className='flex justify-center'>
                 {
-                    Categories.map(category => <img className='w-[10%]' src={category?.categoryImg} alt="img" />
+                    Categories.map(category => <img key={category.id} className='w-[10%]' src={category?.categoryImg} alt="img" />
                     )
                 }
             </div>
