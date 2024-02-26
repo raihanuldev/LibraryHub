@@ -32,7 +32,7 @@
         "bookPrice": 12.49,
         "author": "F. Scott Fitzgerald",
         "authorEmail": "fscottfitzgerald@example.com",
-        "bookImg": "https://img.freepik.com/premium-vector/vector-modern-book-cover-design-company-annual-report_812472-604.jpg?w=740",
+        "bookImg": "https://img.freepik.com/free-vector/abstract-elegant-winter-book-cover_23-2148798745.jpg?w=740&t=st=1708968347~exp=1708968947~hmac=d5b796a37ae3805145d2eaab9202acc0a3c448cfac85def40e81ba8d82c2bbc3",
         "bookDescription": "A tragic love story set in the Jazz Age, exploring themes of decadence, idealism, and the American Dream."
     },
     {
@@ -43,5 +43,15 @@
         "authorEmail": "fscottfitzgerald@example.com",
         "bookImg": "https://img.freepik.com/premium-vector/book-cover-design-template_217752-3226.jpg?w=740",
         "bookDescription": "A tragic love story set in the Jazz Age, exploring themes of decadence, idealism, and the American Dream."
+    }
+    ,
+    {
+        "bookName": "1984",
+        "id":6,
+        "bookPrice": 9.99,
+        "author": "George Orwell",
+        "authorEmail": "georgeorwell@example.com",
+        "bookImg": "https://img.freepik.com/free-vector/orange-annual-report-template_1409-157.jpg?2&w=740&t=st=1708968379~exp=1708968979~hmac=fedfe1ae11f17e931254b4fad821de00873fdcd28069a6244185e567b7956b67",
+        "bookDescription": "A dystopian novel set in a totalitarian society, where the government constantly monitors and manipulates its citizens."
     }
 ]
