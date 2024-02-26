@@ -1,0 +1,72 @@
+[
+    {
+        "LibrariesName": "Central Public Library",
+        "address": "123 Main St, Cityville, State, ZIP",
+        "phoneNumber": "(555) 123-4567",
+        "img": "https://img.freepik.com/free-photo/ready-back-school_1134-12.jpg?t=st=1708977203~exp=1708980803~hmac=eebc4ed69554e194a860b404f77e1f9aa094d3515bcec590e9de5db441870c82&w=996",
+        "id": "1"
+    },
+    {
+        "LibrariesName": "City Central Library",
+        "address": "456 Elm St, Townville, State, ZIP",
+        "phoneNumber": "(555) 987-6543",
+        "img": "https://img.freepik.com/free-photo/library-with-books_1063-98.jpg?t=st=1708977231~exp=1708980831~hmac=d189162075d4104c5176dc9fc4b747a7264b3ab482a47ee30009fad441070868&w=996",
+        "id": "2"
+    },
+    {
+        "LibrariesName": "Community Library",
+        "address": "789 Oak St, Villagetown, State, ZIP",
+        "phoneNumber": "(555) 555-5555",
+        "img": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1708977237~exp=1708980837~hmac=588ea40ea577ad9d216d0b0e8c0777721c633e9b0d7a0cb59cfcf0034b57a9ea&w=996",
+        "id": "3"
+    },
+    {
+        "LibrariesName": "County Library",
+        "address": "321 Pine St, Countyville, State, ZIP",
+        "phoneNumber": "(555) 111-2222",
+        "img": "https://img.freepik.com/free-photo/ready-back-school_1134-12.jpg?t=st=1708977203~exp=1708980803~hmac=eebc4ed69554e194a860b404f77e1f9aa094d3515bcec590e9de5db441870c82&w=996",
+        "id": "4"
+    },
+    {
+        "LibrariesName": "Public Library",
+        "address": "654 Cedar St, Hamletville, State, ZIP",
+        "phoneNumber": "(555) 333-4444",
+        "img": "https://img.freepik.com/free-photo/library-with-books_1063-98.jpg?t=st=1708977231~exp=1708980831~hmac=d189162075d4104c5176dc9fc4b747a7264b3ab482a47ee30009fad441070868&w=996",
+        "id": "5"
+    },
+    {
+        "LibrariesName": "Town Library",
+        "address": "987 Maple St, Villagetown, State, ZIP",
+        "phoneNumber": "(555) 666-7777",
+        "img": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1708977237~exp=1708980837~hmac=588ea40ea577ad9d216d0b0e8c0777721c633e9b0d7a0cb59cfcf0034b57a9ea&w=996",
+        "id": "6"
+    },
+    {
+        "LibrariesName": "Village Public Library",
+        "address": "246 Birch St, Hamletville, State, ZIP",
+        "phoneNumber": "(555) 888-9999",
+        "img": "https://img.freepik.com/free-photo/ready-back-school_1134-12.jpg?t=st=1708977203~exp=1708980803~hmac=eebc4ed69554e194a860b404f77e1f9aa094d3515bcec590e9de5db441870c82&w=996",
+        "id": "7"
+    },
+    {
+        "LibrariesName": "City Library",
+        "address": "135 Walnut St, Townville, State, ZIP",
+        "phoneNumber": "(555) 000-1111",
+        "img": "https://img.freepik.com/free-photo/library-with-books_1063-98.jpg?t=st=1708977231~exp=1708980831~hmac=d189162075d4104c5176dc9fc4b747a7264b3ab482a47ee30009fad441070868&w=996",
+        "id": "8"
+    },
+    {
+        "LibrariesName": "Regional Library",
+        "address": "753 Cherry St, Countyville, State, ZIP",
+        "phoneNumber": "(555) 222-3333",
+        "img": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1708977237~exp=1708980837~hmac=588ea40ea577ad9d216d0b0e8c0777721c633e9b0d7a0cb59cfcf0034b57a9ea&w=996",
+        "id": "9"
+    },
+    {
+        "LibrariesName": "Metropolitan Library",
+        "address": "159 Apple St, Cityville, State, ZIP",
+        "phoneNumber": "(555) 777-8888",
+        "img": "https://img.freepik.com/free-photo/ready-back-school_1134-12.jpg?t=st=1708977203~exp=1708980803~hmac=eebc4ed69554e194a860b404f77e1f9aa094d3515bcec590e9de5db441870c82&w=996",
+        "id": "10"
+    }
+]
