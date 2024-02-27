@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router';
 import React from 'react';
 import pdf from './../../../../public/raihanuldev.pdf'
+import Swal from 'sweetalert2';
 
 const BookDescription = () => {
     const router = useRouter();
@@ -8,6 +9,27 @@ const BookDescription = () => {
     const { bookData } = router.query;
 
     let book = null;
+    const handlePay = () => {
+        Swal.fire({
+            title: "You Need to Pay For Hard Copy?",
+            text: `Total Cost $ ${book.bookPrice}!`,
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Yes, Want to Pay!"
+        }).then((result) => {
+            if (result.isConfirmed) {
+
+                Swal.fire({
+                    title: "Please Wait I will add Payment Intregatin!",
+                    text: "Your Payment Success.",
+                    icon: "success"
+                });
+            }
+        });
+    }
+
     if (bookData) {
         try {
             book = JSON.parse(bookData);
@@ -32,7 +54,7 @@ const BookDescription = () => {
                     <p className='font-semibold'>Author Email: {book.authorEmail}</p>
 
                     <div className='flex space-x-3 mt-4'>
-                        <button className="btn btn-primary">Collect Hard Copy</button>
+                        <button onClick={handlePay} className="btn btn-primary">Collect Hard Copy</button>
                         <a className="btn btn-primary" href={pdf}>Download Pdf</a>
                     </div>
                 </div>
