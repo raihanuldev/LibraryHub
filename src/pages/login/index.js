@@ -41,7 +41,7 @@ const Login = () => {
                 </div>
                 <div className="flex">
                     <p><small> <Link href='/'>Forget Password?</Link> </small></p>
-                    <p className="flex justify-end"><small><Link href='/'>Are you new?</Link></small></p>
+                    <p className="flex justify-end"><small><Link href='/singup'>Are you new?</Link></small></p>
                 </div>
                 <button className="btn btn-primary">Login</button>
             </div>

@@ -1,7 +1,7 @@
 import LibrariesCard from '@/components/librariesCard/LibrariesCard';
 import React, { useEffect, useState } from 'react';
 
-const page = () => {
+const Page = () => {
     const [libraiess, setLibraries] = useState([]);
 
     useEffect(() => {
@@ -22,4 +22,4 @@ const page = () => {
     );
 };
 
-export default page;
+export default Page;
