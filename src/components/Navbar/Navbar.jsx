@@ -30,7 +30,7 @@ const Navbar = () => {
             </div>
             <div className="navbar-end">
                 <input type="checkbox" className="toggle" checked={isDarkMode} />
-                <a className="btn btn-2xl text-2xl">Login</a>
+                <a href="/login" className="btn btn-2xl text-2xl">Login</a>
             </div>
         </div>
     );
