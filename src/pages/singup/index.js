@@ -6,15 +6,17 @@ import Link from 'next/link';
 const SingUp = () => {
     const { register, handleSubmit } = useForm();
     const onSubmit = data => {
+        Swal.fire({
+            position: 'top-end',
+            icon: 'success',
+            title: 'Login Succesfully',
+            showConfirmButton: false,
+            timer: 1500
+        })
+        
         // LoginUser(data.email, data.password)
         //     .then(result => {
-        //         Swal.fire({
-        //             position: 'top-end',
-        //             icon: 'success',
-        //             title: 'Login Succesfully',
-        //             showConfirmButton: false,
-        //             timer: 1500
-        //         })
+                
 
         //     })
         //     .catch(error => {
