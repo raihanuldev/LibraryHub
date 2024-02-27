@@ -20,6 +20,7 @@ const BooksPage = () => {
                     allbooks.map(book => <BookCard key={book.id} book={book} />)
                 }
             </div>
+            
         </div>
     );
 };
