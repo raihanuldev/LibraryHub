@@ -2,7 +2,7 @@ import { useRouter } from 'next/router';
 import React from 'react';
 import pdf from './../../../../public/raihanuldev.pdf'
 
-const bookDescription = () => {
+const BookDescription = () => {
     const router = useRouter();
     const { id } = router.query;
     const { bookData } = router.query;
@@ -41,4 +41,4 @@ const bookDescription = () => {
     );
 };
 
-export default bookDescription;
+export default BookDescription;
