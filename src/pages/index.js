@@ -14,6 +14,7 @@ export default function Home() {
     <main
       className={`${inter.className}`}
     >
+      <title>Library Hub</title>
       <Banner/>
       <TopBook/>
       <Categories/>
