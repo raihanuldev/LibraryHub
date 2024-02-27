@@ -5,12 +5,14 @@ import "@/styles/globals.css";
 
 
 export default function App({ Component, pageProps }) {
-  return
-  <SessionProvider session={pageProps.session}>
-    <div className="">
-      <Navbar />
-      <Component {...pageProps} />
-      <Footer />
-    </div>;
-  </SessionProvider>
+  return (
+    <SessionProvider session={pageProps.session}>
+      <div className="">
+        <Navbar />
+        <Component {...pageProps} />
+        <Footer />
+      </div>;
+    </SessionProvider>
+  );
+  
 }
