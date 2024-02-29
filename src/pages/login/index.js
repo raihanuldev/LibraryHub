@@ -51,6 +51,7 @@ const Login = () => {
             <div>
                 <button className='btn ' onClick={()=>{signIn()}}>Login With Github</button>
             </div>
+        {/* Social media */}
             {/* <Social></Social> */}
         </div>
     );
