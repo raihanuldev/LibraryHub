@@ -29,7 +29,6 @@ const BookDescription = () => {
             }
         });
     }
-
     if (bookData) {
         try {
             book = JSON.parse(bookData);
